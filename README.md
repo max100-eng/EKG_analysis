@@ -5,4 +5,4 @@ colorFrom: gray
 ---
 
 # Análisis de ECG con DenseNet201
-... (El resto de la descripción de tu Space)
+... 
