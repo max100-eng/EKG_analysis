@@ -53,9 +53,6 @@ Ejecutar la aplicación:
 
 python app.py
 
-
-Se abrirá en tu navegador (por defecto en http://127.0.0.1:7860).
-
 ⚙️ Ejemplo mínimo de app.py
 import io
 import numpy as np
